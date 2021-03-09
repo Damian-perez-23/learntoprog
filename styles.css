@@ -1,0 +1,15 @@
+body{
+    width: 100%px;
+    height: 2000px;
+}
+img {
+    z-index:9999;
+    position:fixed;
+    bottom:4%;
+    right:2%;
+    width:5%;
+}
+.clearfix{
+    clear:both;
+    float:none;
+}
